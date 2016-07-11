@@ -1,8 +1,6 @@
-package cn.superid.utils;
 
 import javafx.util.Pair;
 import org.json.JSONObject;
-
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
